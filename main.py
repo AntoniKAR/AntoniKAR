@@ -10,3 +10,4 @@ n = int(input())
 
 print(2 + n)
 print("added new string")
+print("Finish")
